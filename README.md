@@ -7,4 +7,4 @@
 |`new WaitForSeconds(time)`|`Waits.Seconds(time)`|
 |`new WaitForSecondsRealtime(time)`|`Waits.SecondsRealtime(time)`|
 
-It's not recommened to use this for `WaitForSeconds` or `WaitForSecondsRealtime` objects with lots of random values. That would clog up memory with objects you're likely not reusing.
+It's not recommened to use this for creating lots of `WaitForSeconds` or `WaitForSecondsRealtime` objects with random values. That would clog up memory with objects you're likely not reusing.
