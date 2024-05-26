@@ -1,0 +1,11 @@
+{
+  "name": "com.masterdisaster64.waits",
+  "version": "1.0.0",
+  "displayName": "Waits",
+  "description": "Makes it easy to reuse Wait objects for coroutines and save on garbage collection.",
+  "author": {
+    "name": "MasterDisaster64",
+    "email": "masterdisaster64@protonmail.com",
+    "url": "https://github.com/MasterDisaster64/"
+  }
+}
